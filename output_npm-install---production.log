@@ -1,0 +1,6 @@
+npm install --production
+npm-9727-repro@1.0.0 /Users/vesa/code/omat/npm-9727-repro
+└── lodash@3.10.1
+
+npm WARN npm-9727-repro@1.0.0 No description
+npm WARN npm-9727-repro@1.0.0 No repository field.
